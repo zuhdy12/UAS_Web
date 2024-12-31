@@ -82,7 +82,7 @@
   <div class="container">
     <div class="row">
       <div class="col s12">
-        <p class="center-align">&copy; <?= date('Y');?> Rental Zuhdy Rafli All Reserved</p>
+        <p class="center-align">&copy; <?= date('Y');?> Rental Mobil SS All Reserved</p>
       </div>
     </div>
   </div>
